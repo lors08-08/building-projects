@@ -1,0 +1,182 @@
+.header2{
+	padding: 150px 250px;
+	color: white;
+	
+}
+.header{
+	background-image: url(final-1/first-screen.jpg);
+	background-size: cover;	
+	height: 800px;
+	
+}
+.header1{
+	padding-top: 20px;
+}
+.wrapper{
+	background-color: white;
+	width: 1110px;
+	margin-top: -150px;
+	background-color: #F1F5F8;
+
+}
+
+.col1w{
+	padding: 30px;
+	text-align: center;
+}
+.w1{
+	font-size: 50px;
+	color: orange;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+.w2{
+	font-size: 30px;
+	color: black;
+}
+
+
+.line{
+	border-bottom: 5px solid orange;
+
+}
+.wrapper12 b{
+	font-size: 25px;
+}
+.col12ww{
+	margin-top: 100px;
+}
+.wrapper2{
+	margin-top: 30px;
+}
+.section-1{
+	background-color: orange;
+	width: 100%;
+	padding: 20px 0;
+	margin-top: 50px;
+}
+
+.section12{
+	font-size: 35px;
+	color: white;
+}
+.section13{
+	font-size: 18px;
+	color: white;
+}
+.col6s{
+	text-align: left;
+	}
+.col4s{
+	text-align: right;
+	margin-top: 20px;
+}
+
+.mybtn{
+	padding: 10px 15px;
+	background-color: white;
+}
+.img1{
+	margin-top: 80px;
+	
+}
+.im1{
+	font-size: 18px;
+}
+.col12img{
+	text-align: center;
+}
+.img11{
+	font-size: 30px;
+}
+.col1img{
+	text-align: center;
+	background-color: lightgrey;
+	padding: 30px;
+	margin-bottom: 30px;
+}
+.img11{
+	margin-top: 80px;
+}
+.fluid1{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.fluid1 img {
+	width: 100%;
+}
+.section-2{
+	background-color: black;
+	width: 100%;
+	margin-top: 50px;
+	padding: 50px 0;
+
+}
+.partner{
+	color: white;
+}
+.logo{
+	padding: 50px 0;
+}
+.logo img {
+	width: 100%;
+}
+
+.text3 {
+	margin-bottom: 0;
+}
+.ooo{
+	color: orange;
+}
+.names{
+	font-weight: bold;
+	font-size: 17px;
+}
+.review{
+	background-color: #FAF1F1;
+	font-size: 15px;
+	padding: 25px 40px;
+}
+.rod1{
+	justify-content: space-between;
+}
+.section-3{
+	background-color: orange;
+	padding: 25px;
+}
+.section31{
+	font-size: 30px;
+	text-align: left;
+	color: white;
+}
+.section32{
+	color: white;
+}
+.aaa{
+	font-size: 40px;
+	color:orange;
+}
+.adress p{
+	font-weight: bold;
+}
+.mail{
+	color: orange;
+}
+span{
+	color: grey;
+}
+.footer{
+	width: 100%;
+	background-color: black;
+	color:white;
+	justify-content: space-between;
+	padding: 30px;
+
+}
+.foot2{
+	text-align: right;
+	
+}
+.header1 img{
+	font-size: 100px;
+}
